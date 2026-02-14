@@ -133,9 +133,9 @@ The gateway transmits two messages at 500 kbps with a 33ms update cycle:
 
 ## License
 
-GNU General Public License v3.0 - See LICENSE file for details.
+MIT License - See LICENSE file for details.
 
-This is open source hardware. You are free to use, modify, and distribute these designs under the terms of the GPL-3.0 license.
+This is open source hardware. You are free to use, modify, and distribute these designs under the terms of the MIT license.
 
 ## Contributing
 
